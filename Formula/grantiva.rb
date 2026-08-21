@@ -1,9 +1,9 @@
 class Grantiva < Formula
   desc "The CLI for iOS developers — visual regression testing, feature flags, and more"
   homepage "https://grantiva.io"
-  url "https://github.com/grantiva/cli/releases/download/v1.6.3/grantiva-v1.6.3-macos.tar.gz"
-  sha256 "de287d3bcb2550c8ddca00ded64ced685fbdc9bb62bb24ec2b545fc0009043a5"
-  version "v1.6.3"
+  url "https://github.com/grantiva/cli/releases/download/v1.6.4/grantiva-v1.6.4-macos.tar.gz"
+  sha256 "7e6ccdf9c7a7417f6cd7356025bb3b3f3292d7519bf7bca0151ed4bdbdd0b2aa"
+  version "v1.6.4"
   license "MIT"
 
   depends_on :macos
